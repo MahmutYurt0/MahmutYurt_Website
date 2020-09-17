@@ -22,8 +22,7 @@ subtitle = ""
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "MATLAB"
   
 [[feature]]
   icon = "camera-retro"
