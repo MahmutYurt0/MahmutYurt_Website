@@ -8,4 +8,5 @@ selected = true
 publication = "in *IEEE Journal of Selected Topics in Signal Processing*."
 publication_short = "in *IEEE JSTSP*"
 url_code = "https://github.com/MahmutYurt0/pGAN-cGAN"
+url_pdf = "https://ieeexplore.ieee.org/abstract/document/9115255"
 +++
