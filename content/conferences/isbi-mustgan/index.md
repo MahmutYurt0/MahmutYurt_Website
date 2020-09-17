@@ -1,4 +1,5 @@
 +++
+weight=4
 title = "Adaptive Fusion via Dual-Branch GAN for Multi-Contrast MRI Synthesis"
 date = 2020-01-01
 authors = ["Mahmut Yurt", "Salman Ul Hassan Dar", "Aykut Erdem", "Erkut Erdem", "Tolga Cukur" ]
