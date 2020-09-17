@@ -22,24 +22,21 @@ bio: ""
 
 
 interests:
-- Distributed/Federated Learning
-- Transfer Learning
-- Deep Learning
-- Information Theory
-- Graph Signal Processing
-- Convex Optimization
+- Deep Learning 
+- Computer Vision 
+- Unsupervised Learning
+- Generative Adversarial Networks
+- Medical Imaging 
+- Magnetic Resonance Imaging
 
 education:
   courses:
-  - course: PhD in Electrical & Computer Engineering
-    institution: University of Southern California
-    year: 2020 - 
-  - course: MSc in Electrical & Electronics Engineering
+  - course: MSc in Electrical and Electronics Engineering
     institution: Bilkent University
-    year: 2020
-  - course: BSc in Electrical & Electronics Engineering
+    year: 2019-2021
+  - course: BSc in Electrical and Electronics Engineering
     institution: Bilkent University
-    year: 2018
+    year: 2014-2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -48,25 +45,20 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:emirceyani@gmail.com  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:yurtmahmut96@gmail.com  # For a direct email link, use "mailto:test@example.org".
 - icon: cv
   icon_pack: ai
   link: files/ceyani_emir_cv.pdf
 - icon: github
   icon_pack: fab
-  link: https://github.com/emirceyani
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/ceyani_emir
-- icon: stack-exchange
-  icon_pack: fab
-  link: https://stackexchange.com/users/11126572/emir-ceyani?tab=accounts
-- icon: goodreads-g
-  icon_pack: fab
-  link: https://www.goodreads.com/user/show/112659814-emir-ceyani
-- icon: spotify
-  icon_pack: fab
-  link: https://open.spotify.com/user/11120496964?si=GkH6HUaaSZaUenWssm4dcQ
+  link: https://github.com/MahmutYurt0
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/ceyani_emir
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com.tr/citations?user=oAXHlRMAAAAJ&hl=en
+
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -84,5 +76,5 @@ email: ""
 # - Researchers
 #- Visitors
 ---
-I am a PhD student under the supervision of [Prof. Salman Avestimehr](https://www.avestimehr.com/vital-lab) at the University of Southern California(USC) Electrical & Computer Engineering Department. My research aims to analyse machine learning systems through the lens of information theory and graph signal processing. During my masters, I was a R&D Engineer at [Turkcell Technology](https://www.avestimehr.com/vital-lab) under the supervision of [Dr. Salih Ergut](https://scholar.google.com.tr/citations?user=ZNkm_vcAAAAJ&hl=tr) thanks to the 5G & Beyond Graduate Scholarship. 
+I am a Master's Student  
 
