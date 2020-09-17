@@ -12,6 +12,11 @@
   name = "Publications"
   url = "#publications"
   weight = 15
+  
+[[main]]
+  name = "Conference Proceedings"
+  url = "#conferences"
+  weight = 16
 
 
 [[main]]
