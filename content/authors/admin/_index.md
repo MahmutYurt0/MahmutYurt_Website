@@ -8,6 +8,7 @@ authors:
 
 # Is this the primary user of the site?
 superuser: true
+ai: true
 
 # Role/position
 role: Master's Student in the Department of Electrical and Electronics Engineering at Bilkent University 
@@ -53,7 +54,7 @@ social:
   icon_pack: fab
   link: https://github.com/MahmutYurt0
 - icon: google-scholar
-  icon_pack: academicons
+  icon_pack: ai
   link: https://scholar.google.com.tr/citations?user=oAXHlRMAAAAJ&hl=en
 
 
