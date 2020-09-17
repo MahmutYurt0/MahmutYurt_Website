@@ -52,9 +52,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/MahmutYurt0
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/ceyani_emir
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com.tr/citations?user=oAXHlRMAAAAJ&hl=en
