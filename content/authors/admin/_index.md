@@ -53,7 +53,7 @@ social:
   icon_pack: fab
   link: https://github.com/MahmutYurt0
 - icon: google-scholar
-  icon_pack: ai
+  icon_pack: academicons
   link: https://scholar.google.com.tr/citations?user=oAXHlRMAAAAJ&hl=en
 
 
