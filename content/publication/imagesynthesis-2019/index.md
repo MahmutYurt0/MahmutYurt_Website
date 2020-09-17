@@ -1,13 +1,13 @@
 +++
-title = "signSGD with Majority Vote is Communication Efficient And Byzantine Fault Tolerant"
+title = "Image Synthesis in Multi-Contrast MRI with Generative Adversarial Networks"
 date = 2019-01-01
-authors = ["Jeremy Bernstein", "Jiawei Zhao", "Kamyar Azizzadenesheli", "Anima Anandkumar"]
+authors = ["Salman Ul Hassan Dar", "Mahmut Yurt", "Levent Karacan", "Aykut Erdem", "Erkut Erdem", "Tolga Cukur" ]
 publication_types = ["1"]
 abstract = ""
 selected = true
-publication = "In *Seventh International Conference on Learning Representations (ICLR)*."
-publication_short = "In *ICLR*"
-url_code = "https://github.com/PermiJW/signSGD-with-Majority-Vote"
-url_poster = "poster.pdf"
+publication = "In *IEEE Transactions on Medical Imaging*."
+publication_short = "In *Tran. Med. Im.*"
+url_code = "https://github.com/MahmutYurt0/pGAN-cGAN"
+
 
 +++
