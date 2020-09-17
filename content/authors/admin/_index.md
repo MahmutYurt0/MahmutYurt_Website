@@ -50,9 +50,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/Mahmut_Yurt_CV.pdf
-- icon: github
-  icon_pack: fab
-  link: https://github.com/MahmutYurt0
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Mahmut_Yurt
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com.tr/citations?user=oAXHlRMAAAAJ&hl=en
