@@ -1,4 +1,5 @@
 +++
+weight=5
 title = "Three Dimensional MR Image Synthesis With Progressive Generative Adversarial Networks"
 date = 2020-01-01
 authors = ["Muzaffer Ozbey", "Mahmut Yurt", "Salman Ul Hassan Dar", "Tolga Cukur" ]
