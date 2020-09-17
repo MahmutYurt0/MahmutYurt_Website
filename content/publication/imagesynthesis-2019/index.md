@@ -8,4 +8,5 @@ selected = true
 publication = "in *IEEE Transactions on Medical Imaging*."
 publication_short = "in *IEEE TMI*"
 url_code = "https://github.com/MahmutYurt0/pGAN-cGAN"
+url_pdf = "https://ieeexplore.ieee.org/document/8653423"
 +++
