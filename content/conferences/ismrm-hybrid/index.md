@@ -1,4 +1,5 @@
 +++
+weight=3
 title = "Hybrid Deep Neural Network Architectures for Multi-Coil MR Image Reconstruction"
 date = 2020-01-01
 authors = ["Salman Ul Hassan Dar", "Mahmut Yurt", "Muzaffer Ozbey", "Tolga Cukur" ]
