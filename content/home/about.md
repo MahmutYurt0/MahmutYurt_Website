@@ -16,4 +16,4 @@ author = "admin"
 
 # About
 
-I am Mahmut Yurt, a master's student under the supervision of Prof. Tolga Çukur in the Department of Electrical and Electronics Engineering at Bilkent University. My research intersets include deep learning, computer vision, and magnetic resonance imaging. 
+I am a master's student in the Department of Electrical and Electronics Engineering at Bilkent University. I am also working as a graduate researcher in Imaging and Computational Neuroscience Lab (ICON Lab) under the supervision of Prof. Tolga Çukur. My research goals include development of novel supervised and unsupervised deep learning methods for robust, volumetric magnetic resonance image synthesis and reconstruction. 
