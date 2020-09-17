@@ -1,4 +1,5 @@
 +++
+weight=7
 title = "Joint Recovery of Variably Accelerated Multi-Contrast MRI Acquisitions via Generative Adversarial Networks"
 date = 2019-01-01
 authors = ["Salman Ul Hassan Dar", "Mahmut Yurt", "Mohammad Shahdloo", "Muhammed Emrullah Ildız", "Tolga Cukur" ]
