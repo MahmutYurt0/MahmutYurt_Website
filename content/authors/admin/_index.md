@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Emir Ceyani
+title: Mahmut Yurt
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Student at the University of Southern California ECE Department
+role: Master's Student in the Department of Electrical and Electronics Engineering at Bilkent University 
 
 # Organizations/Affiliations
 organizations:
-- name: USC Ming Hsieh Department Electrical and Computer Engineering
-  url: https://minghsiehece.usc.edu/
+- name: ICON Lab at National Magnetic Resonance Research Center
+  url: http://www.icon.bilkent.edu.tr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: "" 
