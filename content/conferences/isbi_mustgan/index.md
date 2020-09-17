@@ -9,5 +9,5 @@ selected = true
 publication = "under second-round review in *Medical Image Analysis*."
 publication_short = "under second-round review in *Medical Image Analysis*"
 url_code = "https://github.com/MahmutYurt0/pGAN-cGAN"
-url_video = "https://arxiv.org/abs/1909.11504"
+video = "https://www.youtube.com/watch?v=Ti4We3izlqM&list=LLSZvPJPomVA1PBWjWyGpmtA"
 +++
