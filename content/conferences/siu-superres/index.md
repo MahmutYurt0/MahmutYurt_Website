@@ -1,4 +1,5 @@
 +++
+weight = 1
 title = "Multi-Image Super Resolution in Multi-Contrast MRI"
 date = 2020-01-01
 authors = ["Mahmut Yurt", "Tolga Cukur" ]
