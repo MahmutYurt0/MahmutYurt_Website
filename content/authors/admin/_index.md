@@ -57,7 +57,7 @@ social:
   icon_pack: ai
   link: https://scholar.google.com.tr/citations?user=oAXHlRMAAAAJ&hl=en
 - icon: linkedin
-  icon_pack: fas
+  icon_pack: fab
   link: https://scholar.google.com.tr/citations?user=oAXHlRMAAAAJ&hl=en
 
 
