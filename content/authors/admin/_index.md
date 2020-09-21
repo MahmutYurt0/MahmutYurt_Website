@@ -56,7 +56,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com.tr/citations?user=oAXHlRMAAAAJ&hl=en
-
+- icon: linkedin
+  icon_pack: fas
+  link: https://scholar.google.com.tr/citations?user=oAXHlRMAAAAJ&hl=en
 
 
 # Link to a PDF of your resume/CV from the About widget.
