@@ -71,7 +71,7 @@ email: ""
 # - Researchers
 #- Visitors
 ---
-I am a master's student in the Department of Electrical and Electronics Engineering at Bilkent University. I am also working as a graduate researcher in Imaging and Computational Neuroscience Lab (ICON Lab) under the supervision of Prof. Tolga Çukur. My research goals include development of novel supervised and unsupervised deep learning methods for robust, volumetric magnetic resonance image synthesis and reconstruction. 
+I am a Master's student in the Department of Electrical and Electronics Engineering at Bilkent University. I am also working as a graduate researcher in Imaging and Computational Neuroscience Lab (ICON Lab) under the supervision of Prof. Tolga Çukur. My research studies aim to develope novel supervised and unsupervised deep learning methods for robust, volumetric magnetic resonance image reconstruction, synthesis and super resolution, as well as for fundamental computer vision problems. 
 
-I am a passionate basketball player, and I also enjoy tennis, chess and board games.   
+I am also a passionate chess player, and I enjoy basketball, tennis, and board games.   
 
