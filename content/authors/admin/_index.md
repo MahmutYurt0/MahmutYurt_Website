@@ -82,3 +82,6 @@ I am also a passionate chess player, and I enjoy playing basketball, tennis, and
 
 [A latest version of my CV is available here in pdf](files/Mahmut_Yurt_CV.pdf)
 
+**Research Descript**
+
+
