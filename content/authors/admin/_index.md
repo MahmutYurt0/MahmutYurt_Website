@@ -58,7 +58,7 @@ social:
   link: https://scholar.google.com.tr/citations?user=oAXHlRMAAAAJ&hl=en
 - icon: linkedin
   icon_pack: fab
-  link: https://scholar.google.com.tr/citations?user=oAXHlRMAAAAJ&hl=en
+  link: https://www.linkedin.com/in/mahmut-yurt-4726b2141/
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -75,5 +75,7 @@ email: ""
 ---
 I am currently a Master's student in the Department of Electrical and Electronics Engineering at Bilkent University and a graduate researcher in Imaging and Computational Neuroscience Lab (ICON Lab) under the supervision of Prof. Tolga Çukur. My research studies aim to develop supervised and unsupervised deep learning models for volumetric magnetic resonance image synthesis, reconstruction, and super-resolution, as well as for fundamental computer vision problems including image-to-image translation and image inpainting.
 
-I am also a passionate chess player, and I enjoy playing basketball, tennis, and board games.   
+I am also a passionate chess player, and I enjoy playing basketball, tennis, and board games.
+
+[A latest version of my CV is available here in pdf](files/Mahmut_Yurt_CV.pdf).
 
