@@ -29,6 +29,7 @@ interests:
 - Generative Adversarial Networks
 - Medical Imaging 
 - Magnetic Resonance Imaging
+- Compressed Sensing
 
 education:
   courses:
@@ -77,5 +78,5 @@ I am currently a Master's student in the Department of Electrical and Electronic
 
 I am also a passionate chess player, and I enjoy playing basketball, tennis, and board games.
 
-[A latest version of my CV is available here in pdf](files/Mahmut_Yurt_CV.pdf).
+[A latest version of my CV is available here in pdf](files/Mahmut_Yurt_CV.pdf)
 
