@@ -83,6 +83,7 @@ I am also a passionate chess player, and I enjoy playing basketball, tennis, and
 [A latest version of my CV is available here in pdf](files/Mahmut_Yurt_CV.pdf)
 
 **Research Description**
+
 Magnetic resonance imaging (MRI) is a preferential medical imaging modality being prominently used in clinical applications to image the central nervous system and soft-tissues. The preference on MRI relies on its capacity to acquire volumetric images of the same underlying anatomy under different tissue contrasts. These volumetric multi-contrast images can Typically, data acquired in the spatial frequency domain, namely k-space, are then inverse Fourier transformed to recover volumetric images of the given anatomy. However, this inherently slow data acquisitions may manifest a limitation for the quality and diversity of the MR images collected. My research aims to accelerate MRI by solving an inverse problem to recover a comprehensive set of high-quality MR images from lower-quality (super-resolution and reconstruction) or less diverse acquisitions (synthesis). 
 
 
