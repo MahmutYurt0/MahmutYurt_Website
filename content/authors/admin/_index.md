@@ -11,12 +11,14 @@ superuser: true
 ai: true
 
 # Role/position
-role: Master's Student in the Department of Electrical and Electronics Engineering at Bilkent University 
+role: Master's Student and Graduate Researcher 
 
 # Organizations/Affiliations
 organizations:
-- name: ICON Lab at National Magnetic Resonance Research Center
+- name: Department of Electrical and Electronics Engineering at Bilkent University
   url: http://www.icon.bilkent.edu.tr/
+- name: ICON Lab at National Magnetic Resonance Research Center
+  url: https://ee.bilkent.edu.tr/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: "" 
