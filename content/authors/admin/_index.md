@@ -82,7 +82,4 @@ I am also a passionate chess player, and I enjoy playing basketball, tennis, and
 
 [A latest version of my CV is available here in pdf](files/Mahmut_Yurt_CV.pdf)
 
-# **Research Description**
-
-# Magnetic resonance imaging (MRI) is a preferential medical imaging modality extensively exercised in clinical applications to image soft-tissues and nervous systems. The preference for MRI confides in its capacity to acquire high-resolution volumetric images of the same underlying anatomy with a comprehensive set of different tissue contrasts. In an MRI scan, the tissue contrasts are captured by describing specific pulse sequences, and radio frequency signals emitted from tissues are collected in a spatial Frequency domain, called k-space. The signals collected in k-space are then inverse Fourier transformed to produce desired volumetric images of the given anatomy. Yet, prolonged data acquisitions in MRI scans inherently restrict the diversity and quality of the MR images acquired. My research studies therefore aim to **develop fully-supervised and semi-supervised multi-contrast MRI synthesis deep network models** to synthesize a more diverse set of MR images from a less diverse one, and to **develop accelerated MRI reconstruction and super-resolution deep network models** to reconstruct increased quality images from limited-quality ones, as well as to **develop synergistic synthesis-reconstruction deep network models** to jointly recover a comprehensive set of high-quality and diverse images from lower-quality and less-diverse ones. 
 
