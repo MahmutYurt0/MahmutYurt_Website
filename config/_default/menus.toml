@@ -10,7 +10,7 @@
  
 [[main]]
 name = "Research Description"
-url = #research_description
+url = "#research_description"
 weight = 11
  
 [[main]]
