@@ -1,6 +1,6 @@
 +++
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 6.5  # Order that this section will appear.
 
 title = "Research Description"
 +++
