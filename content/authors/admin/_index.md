@@ -16,9 +16,9 @@ role: Master's Student and Graduate Researcher
 # Organizations/Affiliations
 organizations:
 - name: Department of Electrical and Electronics Engineering at Bilkent University
-  url: http://www.icon.bilkent.edu.tr/
-- name: ICON Lab at National Magnetic Resonance Research Center
   url: https://ee.bilkent.edu.tr/en/
+- name: ICON Lab at National Magnetic Resonance Research Center
+  url: http://www.icon.bilkent.edu.tr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: "" 
