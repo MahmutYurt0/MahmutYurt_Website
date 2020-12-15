@@ -76,7 +76,9 @@ email: ""
 # - Researchers
 #- Visitors
 ---
-I am currently a Master's candidate in the Department of Electrical and Electronics Engineering at Bilkent University and a graduate researcher at Imaging and Computational Neuroscience (ICON) Lab under the supervision of Prof. Tolga Çukur. My research focuses on the **synergistic combination of computer vision and medical imaging to advance healthcare** by developing novel **supervised and unsupervised deep learning models for volumetric multi-contrast accelerated magnetic resonance image synthesis, reconstruction and super-resolution**, as well as for **fundamental computer vision problems** including **image-to-image translation and image inpainting**.
+I am currently a Master's candidate in the Department of Electrical and Electronics Engineering at Bilkent University and a graduate researcher at Imaging and Computational Neuroscience (ICON) Lab under the supervision of Prof. Tolga Çukur. My research focuses on the **synergistic combination of computer vision and medical imaging to advance healthcare** by developing novel deep learning models for **accelerated multi-contrast MRI synthesis, reconstruction and super-resolution** as well as for the **foremost computer vision problems** utilizing **supervised and unsupervised learning approaches**.
+
+
 
 
 
