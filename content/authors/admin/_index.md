@@ -79,7 +79,7 @@ email: ""
 I am currently a Master's candidate in the Department of Electrical and Electronics Engineering at Bilkent University and a graduate researcher at Imaging and Computational Neuroscience (ICON) Lab under the supervision of Prof. Tolga Çukur. My research focuses on the **synergistic combination of computer vision and medical imaging to advance healthcare** by developing novel deep learning models for **accelerated multi-contrast MRI synthesis, reconstruction and super-resolution** as well as for the **foremost computer vision problems** utilizing **supervised and unsupervised learning approaches**.
 
 
-I am also a passionate chess player (please reach me for a 3+0 game). I also enjoy playing basketball, tennis, and board games.
+I am also a passionate chess player (please reach me for a series of blitz games). I also enjoy playing basketball, tennis, and board games.
 
 [A latest version of my CV is available here in pdf](files/Mahmut_Yurt_CV.pdf)
 [My Google Scholar account is available here](https://scholar.google.com.tr/citations?user=oAXHlRMAAAAJ&hl=en)
