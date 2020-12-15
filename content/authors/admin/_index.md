@@ -83,6 +83,6 @@ I am a passionate chess player (please reach me for a series of blitz games). I 
 
 [A latest version of my CV is available here in pdf](files/Mahmut_Yurt_CV.pdf)
 
-[A link to My Google Scholar account is available here](https://scholar.google.com.tr/citations?user=oAXHlRMAAAAJ&hl=en)
+[A link to my Google Scholar account is available here](https://scholar.google.com.tr/citations?user=oAXHlRMAAAAJ&hl=en)
 
 
