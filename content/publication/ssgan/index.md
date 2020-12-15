@@ -1,12 +1,12 @@
 +++
 title = "mustGAN: multi-stream Generative Adversarial Networks for Multi-Contrast MR Image Synthesis"
 date = 2020-01-01
-authors = ["Mahmut Yurt", "Salman Ul Hassan Dar", "Aykut Erdem", "Erkut Erdem", "Kader Karli Oguz", "Tolga Cukur" ]
+authors = ["Mahmut Yurt", "Salman Ul Hassan Dar", "Berk Tinaz", "Muzaffer Ozbey", "Tolga Cukur" ]
 publication_types = ["2"]
-abstract = "Multi-contrast MRI protocols increase the level of morphological information available for diagnosis. Yet, the number and quality of contrasts is limited in practice by various factors including scan time and patient motion. Synthesis of missing or corrupted contrasts can alleviate this limitation to improve clinical utility. Common approaches for multi-contrast MRI involve either one-to-one and many-to-one synthesis methods. One-to-one methods take as input a single source contrast, and they learn a latent representation sensitive to unique features of the source. Meanwhile, many-to-one methods receive multiple distinct sources, and they learn a shared latent representation more sensitive to common features across sources. For enhanced image synthesis, here we propose a multi-stream approach that aggregates information across multiple source images via a mixture of multiple one-to-one streams and a joint many-to-one stream. The shared feature maps generated in the many-to-one stream and the complementary feature maps generated in the one-to-one streams are combined with a fusion block. The location of the fusion block is adaptively modified to maximize task-specific performance. Qualitative and quantitative assessments on T1-, T2-, PD-weighted and FLAIR images clearly demonstrate the superior performance of the proposed method compared to previous state-of-the-art one-to-one and many-to-one methods."
+abstract = "This study proposes a novel semi-supervised learning framework for mutually accelerated multi-contrast MRI synthesis that recovers high-quality images without demanding large training sets of costly fully-sampled source or ground-truth target images. The proposed method presents a selective loss function expressed only on a subset of the acquired k-space coefficients and further leverages randomized sampling patterns across training subjects to effectively learn relationships among acquired and nonacquired k-space coefficients at all locations. Comprehensive experiments performed on multi-contrast brain images clearly demonstrate that the proposed method maintains equivalent performance to the gold-standard method based on fully-supervised training while alleviating undesirable reliance of the current synthesis methods on large-scale fully-sampled MRI acquisitions."
 selected = true
-publication = "accepted, in press, *Medical Image Analysis*."
-publication_short = "accepted, in press, *Medical Image Analysis*"
+publication = "preprint, to be submitted to *IEEE Transactions on Medical Imaging*."
+publication_short = "preprint"
 url_code = "https://github.com/MahmutYurt0/pGAN-cGAN"
-url_pdf = "https://arxiv.org/abs/1909.11504"
+url_pdf = "https://arxiv.org/abs/2011.14347"
 +++
