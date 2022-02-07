@@ -16,4 +16,4 @@ author = "admin"
 
 # About
 
-I am currently a Master's student in the Department of Electrical and Electronics Engineering at Bilkent University and a graduate researcher in Imaging and Computational Neuroscience Lab (ICON Lab) under the supervision of Prof. Tolga Çukur. My research studies aim to develop supervised and unsupervised deep learning models for volumetric magnetic resonance image synthesis, reconstruction, and super-resolution, as well as for fundamental computer vision problems including image-to-image translation and image inpainting.  
+I am a Ph.D. student in the Department of Electrical Engineering at Stanford University, working the supervision of Prof. Kawin Setsompop and Prof. John Pauly. I was previously a Master's student in the Department of Electrical and Electronics Engineering at Bilkent University under the supervision of Prof. Tolga Cukur. My research studies aim to develop novel deep learning techniques for accelerated magnetic resonance imaging and fingerprinting including synthesis, reconstruction, and superresolution, as well as for computer vision problems including image-to-image translation and image inpainting.
