@@ -29,7 +29,7 @@ interests:
 - Magnetic Resonance Imaging
 - Inverse Problems
 - Optimization
-- 
+
 education:
   courses:
   -course: Ph.D. in Electrical Engineering
