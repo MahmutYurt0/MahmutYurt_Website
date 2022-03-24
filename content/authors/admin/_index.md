@@ -11,7 +11,7 @@ superuser: true
 ai: true
 
 # Role/position
-role: Ph.D. Student in Electrical Engineering at Stanford University
+role: Ph.D. Student in the Department of Electrical Engineering at Stanford University
 
 # Organizations/Affiliations
 organizations:
@@ -23,16 +23,18 @@ bio: ""
 
 
 interests:
-- Deep Learning 
-- Computer Vision 
-- Unsupervised Learning
-- Generative Adversarial Networks
-- Medical Imaging 
+- Deep Learning
+- Computer Vision
+- Medical Imaging
 - Magnetic Resonance Imaging
-- Compressed Sensing
-
+- Inverse Problems
+- Optimization
+- 
 education:
   courses:
+  -course: Ph.D. in Electrical Engineering
+    institution: Stanford University
+    year: 2021-2025
   - course: MSc in Electrical and Electronics Engineering
     institution: Bilkent University
     year: 2019-2021
@@ -47,7 +49,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:yurtmahmut96@gmail.com  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:myurt@stanford.edu  # For a direct email link, use "mailto:test@example.org".
 - icon: cv
   icon_pack: ai
   link: files/Mahmut_Yurt_CV.pdf
@@ -74,7 +76,7 @@ email: ""
 # - Researchers
 #- Visitors
 ---
-I am currently a Master's candidate in the Department of Electrical and Electronics Engineering at Bilkent University and a graduate researcher at Imaging and Computational Neuroscience (ICON) Lab under the supervision of Prof. Tolga Çukur. My research focuses on the **synergistic combination of computer vision and medical imaging to advance healthcare** by developing novel deep learning models for **accelerated multi-contrast MRI synthesis, reconstruction and super-resolution** as well as for the **foremost computer vision problems** utilizing **supervised and unsupervised learning approaches**.
+I am a first-year Ph.D. student in the Department of Electrical Engineering at Stanford University, under the supervision of Prof. John Pauly and Prof. Kawin Setsompop. I received my M.Sc. and B.Sc. degrees from Electrical and Electronics Engineering at Bilkent University, where I worked with Prof. Tolga Cukur. My research focuses on the **synergistic combination of computer vision and medical imaging to advance healthcare** by developing novel deep learning models for **accelerated multi-contrast MRI synthesis, reconstruction and super-resolution** as well as for the **foremost computer vision problems** utilizing **supervised and unsupervised learning approaches**.
 
 
 I am a passionate chess player (please reach me for a series of blitz games). I also enjoy playing basketball, tennis, and board games.
