@@ -11,7 +11,7 @@ superuser: true
 ai: true
 
 # Role/position
-role: Master's Student and Graduate Researcher 
+role: Ph.D. Student in Electrical Engineering at Stanford University
 
 # Organizations/Affiliations
 organizations:
