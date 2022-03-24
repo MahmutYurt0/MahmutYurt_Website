@@ -32,7 +32,7 @@ interests:
 
 education:
   courses:
-  -course: Ph.D. in Electrical Engineering
+  - course: Ph.D. in Electrical Engineering
     institution: Stanford University
     year: 2021-2025
   - course: MSc in Electrical and Electronics Engineering
