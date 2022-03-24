@@ -15,10 +15,8 @@ role: Ph.D. Student in Electrical Engineering at Stanford University
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Electrical and Electronics Engineering at Bilkent University
-  url: https://ee.bilkent.edu.tr/en/
-- name: ICON Lab at National Magnetic Resonance Research Center
-  url: http://www.icon.bilkent.edu.tr/
+- name: Department of Electrical Engineering at Stanford University
+  url: https://ee.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: "" 
