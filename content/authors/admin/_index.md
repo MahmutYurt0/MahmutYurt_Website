@@ -76,10 +76,9 @@ email: ""
 # - Researchers
 #- Visitors
 ---
-I am a first-year Ph.D. student in the Department of Electrical Engineering at Stanford University, under the supervision of Prof. John Pauly and Prof. Kawin Setsompop. I received my M.Sc. and B.Sc. degrees from Electrical and Electronics Engineering at Bilkent University, where I worked with Prof. Tolga Cukur. My research focuses on the **synergistic combination of computer vision and medical imaging to advance healthcare** by developing novel deep learning models for **accelerated multi-contrast MRI synthesis, reconstruction and super-resolution** as well as for the **foremost computer vision problems** utilizing **supervised and unsupervised learning approaches**.
+I am third-year PhD Student in Electrical Engineering at Stanford University, under the supervision of Prof. John Pauly. I also work closely with Prof. Kawin Setsompop, Prof. Shreyas Vasanawala, and Prof. Akshay Chaudhari. Before joining Stanford, I received my MSc and BSc degrees from Electrical Engineering at Bilkent University in Turkiye, where I worked with Prof. Tolga Cukur. My research focuses on **synergistic combination of computer vision and medical imaging to advance healthcare technologies** by developing novel deep learning models for **accelerated multi-contrast MRI synthesis, reconstruction and super-resolution** as well as for the **foremost computer vision problems** utilizing **supervised and unsupervised learning techniques**.
 
-
-I am a passionate chess player (please reach me for a series of blitz games). I also enjoy playing basketball, tennis, and board games.
+I am also a passionate chess player (please reach me for a series of blitz games). I also enjoy playing basketball, tennis, and board games.
 
 [A latest version of my CV is available here in pdf](files/Mahmut_Yurt_CV.pdf)
 
